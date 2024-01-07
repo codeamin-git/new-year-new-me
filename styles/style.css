@@ -42,8 +42,29 @@
   color: #fff;
   height: 30px;
   border-radius: 5px;
-  font-size: 20px;
-  font-weight: 600;
+  font-size: 10px;
+  font-weight: 300;
   background: #f15b22;
   position: static;
 }
+
+/* previous year lessons section */
+.profile {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin: 100px 150px 675px 0;
+}
+.profile-img {
+  width: 527.929px;
+  height: 527.929px;
+  border-radius: 527.929px;
+  background: rgba(241, 91, 34, 0.20);
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-top: 100px;
+}
+
+
+
