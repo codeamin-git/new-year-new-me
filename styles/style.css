@@ -59,16 +59,32 @@
   width: 527.929px;
   height: 527.929px;
   border-radius: 527.929px;
-  background: rgba(241, 91, 34, 0.20);
+  background: rgba(241, 91, 34, 0.2);
   display: flex;
   justify-content: center;
   align-items: center;
   margin-top: 100px;
 }
-.profile-lessons{
+.profile-lessons {
+  width: 400px;
+  display: block;
+  justify-content: center;
+  align-items: left;
+}
+
+/* plans section styles */
+.plans {
+  width: 800px;
+  margin: 0 auto;
+  display: flex;
+  align-items: center;
+  justify-content: space-evenly;
+  margin-bottom: 1100px;
+}
+.project {
+  display: inline-block;
   justify-content: center;
   align-items: center;
 }
 
-
-
+/* gradient styles part */
